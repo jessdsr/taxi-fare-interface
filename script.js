@@ -1,6 +1,6 @@
 const algoliaPlacesApiAppId = 'O5WA511685';
 const algoliaPlacesApiKey = '3688fcb5890a3ec161e4dfaa2f966256';
-const mapboxApiToken = 'pk.eyJ1Ijoia3Jva3JvYiIsImEiOiJja2YzcmcyNDkwNXVpMnRtZGwxb2MzNWtvIn0.69leM_6Roh26Ju7Lqb2pwQ';
+const mapboxApiToken = 'pk.eyJ1IjoiamVzc2RzciIsImEiOiJja2hnZXB1ZDMweXR0MnRsNm45YmFjaHRtIn0.BLFVzC3Q_KvkjndtT5oP6w';
 const taxiFareApiUrl = 'https://taxi-fare-ui.herokuapp.com/predict_fare';
 
 const displayMap = (start, stop) => {
